@@ -4,7 +4,7 @@
   clamped.
 
 ## Draft 1.5
-
+Hey there
 * Remove clamping and scaling of `hsl` and `hwb` color channels.
 
 * Document `color.to-gamut()` in summary and design decisions.
